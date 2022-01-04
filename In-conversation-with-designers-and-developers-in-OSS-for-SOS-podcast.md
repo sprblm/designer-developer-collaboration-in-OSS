@@ -219,25 +219,44 @@ Amazing. Thank you all so much for spending time with us and recording this podc
 ## Links
 
 [Open Source Design Twitter](https://twitter.com/opensrcdesign)
+
 [Open Source Design](https://opensourcedesign.net/)
+
 [Sustain Design & UX working group](https://discourse.sustainoss.org/t/design-ux-working-group/348)
+
 [Sustain Open Source Twitter](https://twitter.com/sustainoss)
+
 [Richard Littauer Twitter](https://twitter.com/richlitt)
+
 [Eriol Fox Twitter](https://twitter.com/EriolDoesDesign)
+
 [Eriol Fox-Simply Secure](https://simplysecure.org/who-we-are/eriol-fox/)
+
 [Kelsey Smith-Simply Secure](https://simplysecure.org/who-we-are/kelsey/)
+
 [Saptak Sengupta Website](https://saptaks.website/)
+
 [Saptak Sengupta Twitter](https://twitter.com/Saptak013)
+
 [Sadie Twitter](https://twitter.com/yrb1rd)
+
 [Sadie GitHub](https://github.com/Shoalsteed)
+
 [I2P](https://geti2p.net/en/)
+
 [I2P Mastodon](https://mastodon.social/@i2p)
+
 [I2P Twitter](https://twitter.com/i2p)
+
 [Lucie Wu Website](https://luwuxu.com/)
+
 [USABLE Tools](https://usable.tools/)
+
 [Accessibility Bluelines](https://dribbble.com/shots/6269661-Accessibility-Bluelines)
 
 ### Credits
 Produced by [Richard Littauer](https://www.burntfen.com/)
+
 Edited by Paul M. Bahr at [Peachtree Sound](https://www.peachtreesound.com/)
+
 Show notes by DeAnn Bahr [Peachtree Sound](https://www.peachtreesound.com/)
