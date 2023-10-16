@@ -1,6 +1,6 @@
 ## This is the transcript for Episode 18 of the Sustaining open Source Design podcast
 
-This episode Eriol and Guest host Kelsey from [Simply Secure](https://simplysecure.org/) are Joined by Saide and Lucie of [I2P](https://geti2p.net/) and [Saptak](https://saptaks.website/) to talk about how designers and developers collaborate in OSS project communities.
+This episode Eriol and Guest host Kelsey from [Superbloom, formely Simply Secure](https://superbloom.design/) are Joined by Saide and Lucie of [I2P](https://geti2p.net/) and [Saptak](https://saptaks.website/) to talk about how designers and developers collaborate in OSS project communities.
 
 You'll find URL links at the bottom of the transcript document under the next heading.
 
@@ -230,15 +230,15 @@ Amazing. Thank you all so much for spending time with us and recording this podc
 
 [Eriol Fox Twitter](https://twitter.com/EriolDoesDesign)
 
-[Eriol Fox-Simply Secure](https://simplysecure.org/who-we-are/eriol-fox/)
+[Eriol Fox-Simply Secure](https://superbloom.design/about/people/eriol/)
 
-[Kelsey Smith-Simply Secure](https://simplysecure.org/who-we-are/kelsey/)
+[Kelsey Smith-Simply Secure](https://simplysecure.org/who-we-are/kelsey/) - Link no longer active
 
 [Saptak Sengupta Website](https://saptaks.website/)
 
 [Saptak Sengupta Twitter](https://twitter.com/Saptak013)
 
-[Sadie Twitter](https://twitter.com/yrb1rd)
+[Sadie Twitter](https://twitter.com/yrb1rd) - Link no longer active
 
 [Sadie GitHub](https://github.com/Shoalsteed)
 
